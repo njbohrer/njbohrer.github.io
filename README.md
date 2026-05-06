@@ -2,7 +2,7 @@
 
 ## About
 
-I am a GIS Analyst and Business Analyst 2 at Knoxville Utilities Board (KUB) with experience supporting utility operations, spatial analysis, mobile GIS workflows, and geospatial data automation. I am currently pursuing a Master of Science in Geographic Information Systems Technology (MS-GIST) at the University of Arizona, where I have focused on open-source GIS, spatial databases, Python automation, and web GIS development.
+I am a GIS Analyst at Knoxville Utilities Board (KUB) with experience supporting utility operations, spatial analysis, mobile GIS workflows, and geospatial data automation. I am currently pursuing a Master of Science in Geographic Information Systems Technology (MS-GIST) at the University of Arizona, where I have focused on open-source GIS, spatial databases, Python automation, and web GIS development.
 
 My interests include GIS automation, spatial databases, drone mapping workflows, LiDAR applications, and building scalable geospatial systems that combine analysis, visualization, and operational efficiency.
 
