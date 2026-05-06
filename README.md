@@ -13,7 +13,7 @@ My interests include GIS automation, spatial databases, drone mapping workflows,
 ### QGIS Foundations and Workflow Automation – Assignment 2
 
 Repository:
-[QGIS Workflow and Spatial Analysis Project](https://github.com/njbohrer/gist-604b-assignment2)
+[QGIS Desktop GIS Projects](https://github.com/njbohrer/gist-604b-assignment2)
 
 This project focused on learning core open-source GIS concepts and workflows using QGIS. The assignment involved completing a wide range of QGIS Tutorials and Tips exercises covering basic, intermediate, and advanced GIS operations. Topics included projections, joins, raster and vector analysis, OpenStreetMap workflows, spatial queries, and workflow automation using the QGIS Processing Modeler.
 
