@@ -10,7 +10,7 @@ My interests include GIS automation, spatial databases, drone mapping workflows,
 
 ## Projects
 
-### QGIS Foundations and Workflow Automation – Assignment 2
+### QGIS Foundations and Workflow Automation
 
 Repository:
 [QGIS Desktop GIS Projects](https://github.com/njbohrer/gist-604b-assignment2)
@@ -33,7 +33,7 @@ One of the most valuable aspects of this assignment was learning how to automate
 
 ---
 
-### Python GIS Automation – Week 3
+### Python GIS Automation
 
 Repository:
 [Python GIS Automation Project](https://github.com/njbohrer/gist604b-python-sp26)
@@ -50,7 +50,7 @@ This project introduced Python scripting for GIS workflows, emphasizing automati
 
 ---
 
-### PostGIS Spatial Database Project – Week 4
+### PostGIS Spatial Database Project
 
 Repository:
 [PostGIS Database Orchestration Project](https://github.com/njbohrer/gist604b-postgis-sp26)
@@ -68,7 +68,7 @@ This project focused on building and managing a spatial database using PostgreSQ
 
 ---
 
-### OpenStreetMap and PostGIS Spatial Analysis – Week 5
+### OpenStreetMap and PostGIS Spatial Analysis
 
 Repository:
 [OSM and PostGIS Spatial Analysis Project](https://github.com/njbohrer/gist604b-osm-postgis-sp26)
@@ -85,7 +85,7 @@ This project used OpenStreetMap data and PostGIS to perform spatial analysis and
 
 ---
 
-### Web GIS and Leaflet Interactive Mapping – Week 6
+### Web GIS and Leaflet Interactive Mapping
 
 Repository:
 [Leaflet Web GIS Project](https://github.com/njbohrer/gist604b-webgis-leaflet-sp26)
